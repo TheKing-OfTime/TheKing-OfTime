@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">I'am software developer</h3>
-<h3 align="center">I am developing chat bots discord.</h3>
+<h1 align="left">Hi 👋, I'm Artem</h1>
+<h3 align="left">I'am software developer</h3>
+<h3 align="left">I am developing chat bots discord.</h3>
 
 <p align="left">
 </p>
